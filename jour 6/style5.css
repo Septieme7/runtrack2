@@ -1,0 +1,19 @@
+/* style5.css : minimaliste, spacing ample */
+body {
+    background: #f8fafc;
+    color: #0f172a;
+    font-family: "Roboto", Arial, sans-serif;
+    padding: 60px;
+}
+
+form {
+    background: white;
+    padding: 28px;
+    border-radius: 16px;
+    border: 1px solid #e6eef6;
+}
+
+select {
+    padding: 12px;
+    border-radius: 10px;
+}

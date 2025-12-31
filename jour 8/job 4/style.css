@@ -1,0 +1,85 @@
+/* ---- Reset très léger ---- */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* ---- Fond global ---- */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(135deg, #eceff1, #f5f5f5);
+    color: #333;
+    padding: 40px;
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+/* ---- Conteneur principal ---- */
+.container {
+    background: white;
+    width: 450px;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+}
+
+/* ---- Titres ---- */
+h1, h2 {
+    text-align: center;
+    margin-bottom: 18px;
+    color: #2c3e50;
+}
+
+/* ---- Formulaires ---- */
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+/* ---- Inputs ---- */
+input[type="text"],
+input[type="number"],
+select {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-size: 16px;
+}
+
+/* ---- Boutons ---- */
+button,
+input[type="submit"] {
+    background: #3498db;
+    border: none;
+    padding: 10px;
+    font-size: 16px;
+    color: white;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+button:hover,
+input[type="submit"]:hover {
+    background: #2980b9;
+}
+
+/* ---- Tableaux (pour le morpion) ---- */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+td {
+    width: 33%;
+    height: 80px;
+    text-align: center;
+    vertical-align: middle;
+    border: 1px solid #ccc;
+    font-size: 30px;
+    background: #fafafa;
+}

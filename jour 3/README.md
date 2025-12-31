@@ -148,7 +148,7 @@ jobXX/
 └── job01,02,03,04,05,06,07.css   
 ```
 
-Pour tester un job, ouvrez simplement `index.php` dans votre navigateur avec un serveur PHP.
+Pour tester un job, ouvre simplement `index.php` dans ton navigateur avec un serveur PHP.
 
 ---
 
@@ -159,3 +159,5 @@ Pour tester un job, ouvrez simplement `index.php` dans votre navigateur avec un 
 - ✅ CSS externe (jamais dans le HTML)
 - ✅ Code commenté et lisible
 - ✅ Commits Git réguliers et explicites
+
+## 🔥Vous m'avez fais transpirer pour les faire du *.md au exercices peut etre m^me plus pour le *.md... et merci.🔥

@@ -1,0 +1,22 @@
+/* style4.css : vif, contraste fort */
+body {
+    background: #fffbeb;
+    color: #1f2937;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    padding: 40px;
+}
+
+form {
+    background: linear-gradient(90deg, #ffffff, #fff7ed);
+    padding: 20px;
+    box-shadow: 0 8px 30px rgba(255, 160, 0, 0.08);
+    border-radius: 10px;
+}
+
+button {
+    background: #ff7f11;
+    color: white;
+    border: none;
+    padding: 10px 14px;
+    border-radius: 8px;
+}

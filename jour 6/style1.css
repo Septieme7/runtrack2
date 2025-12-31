@@ -1,0 +1,28 @@
+/* style1.css : look clair, moderne */
+body {
+    background: linear-gradient(180deg, #e0f7fa, #ffffff);
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    color: #0a2a35;
+    margin: 0;
+    padding: 40px;
+}
+
+.container {
+    max-width: 560px;
+    margin: 0 auto;
+}
+
+form {
+    background: #ffffff;
+    padding: 18px;
+    border-radius: 12px;
+    box-shadow: 0 6px 20px rgba(8, 24, 30, 0.08);
+}
+
+button {
+    margin-top: 12px;
+    padding: 10px 16px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}

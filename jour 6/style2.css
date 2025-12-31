@@ -1,0 +1,22 @@
+/* style2.css : sombre, monospace */
+body {
+    background: #0f1724;
+    color: #e6eef6;
+    font-family: "Courier New", monospace;
+    padding: 40px;
+}
+
+form {
+    background: rgba(255,255,255,0.04);
+    padding: 20px;
+    border: 1px solid rgba(255,255,255,0.06);
+    border-radius: 6px;
+}
+
+select, button {
+    background: transparent;
+    color: inherit;
+    border: 1px solid rgba(255,255,255,0.12);
+    padding: 8px;
+    border-radius: 6px;
+}

@@ -1,0 +1,14 @@
+/* style6.css : rétro néon */
+body {
+    background: radial-gradient(circle at 10% 20%, #0b1324 0%, #0f1724 60%);
+    color: #e0f7ff;
+    font-family: "Lucida Console", Monaco, monospace;
+    padding: 40px;
+}
+
+form {
+    background: rgba(255,255,255,0.02);
+    border: 1px solid rgba(0, 255, 200, 0.15);
+    padding: 18px;
+    box-shadow: 0 0 18px rgba(0,255,200,0.06);
+}

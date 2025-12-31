@@ -1,0 +1,14 @@
+/* style7.css : chaleureux, carte postale */
+body {
+    background: linear-gradient(135deg, #fff7ee 0%, #ffe6d6 100%);
+    color: #432f24;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    padding: 40px;
+}
+
+form {
+    background: #fffdfa;
+    padding: 22px;
+    border-radius: 12px;
+    border: 2px dashed #f4c2a1;
+}
